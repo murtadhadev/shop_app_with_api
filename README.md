@@ -1,4 +1,4 @@
-# udemy_flutter
+# shop_flutter
 
 A new Flutter application.
 
